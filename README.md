@@ -6,9 +6,12 @@ This project focuses on analyzing customer behavior using Python, SQL, and Power
 ---
 
 ## Dataset
-The dataset contains customer-related information such as purchasing behavior, sales trends, customer segments, and transaction details used for analysis and visualization.
+This dataset contains customer purchasing behavior, sales trends, customer segmentation, and transaction-related information used for analysis and visualization.
 
----
+[Download Dataset](## Dataset
+This dataset contains customer purchasing behavior, sales trends, customer segmentation, and transaction-related information used for analysis and visualization.
+
+[Download Dataset](https://github.com/Khushi-Tipare/Customer-Behavior-Analysis/blob/main/customer_shopping_behavior.csv)
 
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
