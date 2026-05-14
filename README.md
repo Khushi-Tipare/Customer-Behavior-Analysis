@@ -1,5 +1,9 @@
 # Customer Behavior Analysis using SQL, Python & Power BI
 
+## Dashboard Preview
+
+![Dashboard Preview](https://github.com/Khushi-Tipare/Customer-Behavior-Analysis/blob/main/Customer%20Behavior%20Dashboard.png)
+
 ## Overview
 This project focuses on analyzing customer behavior using Python, SQL, and Power BI. The workflow includes data loading, data cleaning, exploratory data analysis (EDA), SQL-based querying, and interactive dashboard creation to generate meaningful business insights and support data-driven decision-making.
 
